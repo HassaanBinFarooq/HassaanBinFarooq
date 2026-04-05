@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🙋‍♂️ Hi, I’m @HassaanBinFarooq
 
-<!--
-**HassaanBinFarooq/HassaanBinFarooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m passionate about tech, AI, and everything that touches code.  
+🌟 Currently diving into software engineering, AI projects, and modern web development.  
+🖥️ Take a peek at my portfolio -> [www.hassaanfarooq.dev](https://www.hassaanfarooq.dev)  
+📬 Connect with me on Twitter -> [@HassaanFarooq](https://twitter.com/HassaanFarooq)  
+✉️ Feel free to email me -> hassaanfarooq176@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+![Hassaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassaanBinFarooq&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanBinFarooq&layout=compact&theme=radical)
+
+---
+
+## 💡 Fun Fact
+When I’m not coding or exploring AI, I love discovering new tech trends and experimenting with mini projects to level up my skills!
