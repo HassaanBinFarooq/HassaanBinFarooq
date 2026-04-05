@@ -19,12 +19,5 @@
 
 ---
 
-## 📈 GitHub Stats
-![Hassaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassaanBinFarooq&show_icons=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanBinFarooq&layout=compact&theme=radical)
-
----
-
 ## 💡 Fun Fact
 When I’m not coding or exploring AI, I love discovering new tech trends and experimenting with mini projects to level up my skills!
