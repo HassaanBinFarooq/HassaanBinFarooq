@@ -3,7 +3,7 @@
 💻 I’m passionate about tech, AI, and everything that touches code.  
 🌟 Currently diving into software engineering, AI projects, and modern web development.  
 🖥️ Take a peek at my portfolio -> [www.hassaanfarooq.dev](https://hassaanfarooq.netlify.app/)  
-📬 Connect with me on Twitter -> [@HassaanFarooq](https://twitter.com/HassaanFarooq)  
+📬 Connect with me on LinkedIn -> [@HassaanFarooq](www.linkedin.com/in/hassaan-farooq-559762283)  
 ✉️ Feel free to email me -> hassaanfarooq176@gmail.com  
 
 ---
