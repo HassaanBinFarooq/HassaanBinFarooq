@@ -1,18 +1,19 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F7A7A,100:2E9EF7&height=250&section=header&text=Hassaan%20Farooq&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20WebAR%20Founder&descAlignY=65&descSize=18" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F7A7A&center=true&vCenter=true&width=650&lines=BS+Software+Engineering+%40+COMSATS;Founder+%E2%80%94+The+AR+Menu+Studio;Building+with+TypeScript+%26+Next.js;Pakistan%27s+first+WebAR+menu+experience" alt="Typing SVG" />
 </div>
 
 ---
 
-### About Me
+### 👤 About Me
 
 I'm a Software Engineering student at COMSATS University Islamabad who enjoys building real, deployed products rather than just studying concepts in isolation.
 
 I'm particularly interested in:
 
 - 🌐 Modern Web Development
-- 🚀 WebAR & 3D Web Experiences
+- 🚀 WebAR & 3D Web Experiences  
 - ⚙️ Full-Stack Application Development
 - 🗄️ Databases & Backend Systems
 - 📐 Data Structures & Algorithms
@@ -54,8 +55,22 @@ I'm particularly interested in:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassaanBinFarooq&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanBinFarooq&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassaanBinFarooq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanBinFarooq&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HassaanBinFarooq&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/hassaan-farooq-559762283">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hassaanfarooq176@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
