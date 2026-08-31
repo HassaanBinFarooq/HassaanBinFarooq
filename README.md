@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F7A7A,100:2E9EF7&height=250&section=header&text=Hassaan%20Farooq&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20WebAR%20Founder&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,100:6B21A8&height=250&section=header&text=Hassaan%20Farooq&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20WebAR%20Founder&descAlignY=65&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F7A7A&center=true&vCenter=true&width=650&lines=BS+Software+Engineering+%40+COMSATS;Founder+%E2%80%94+The+AR+Menu+Studio;Building+with+TypeScript+%26+Next.js;Pakistan%27s+first+WebAR+menu+experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=650&lines=BS+Software+Engineering+%40+COMSATS;Founder+%E2%80%94+The+AR+Menu+Studio;Building+with+TypeScript+%26+Next.js;Pakistan%27s+first+WebAR+menu+experience" alt="Typing SVG" />
 </div>
 
 ---
@@ -78,5 +78,5 @@ I'm particularly interested in:
 <div align="center">
 "First, solve the problem. Then, write the code."
 <p>John Johnson</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1F7A7A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,100:1a0533&height=100&section=footer" width="100%"/>
 </div>
